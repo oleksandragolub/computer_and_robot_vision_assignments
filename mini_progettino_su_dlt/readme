@@ -1,1 +1,27 @@
+------------------------------------
+------------------------------------
+Nome/Cognome: Oleksandra Golub
+Matricola: 856706
+------------------------------------
+------------------------------------
+
+Per eseguire correttamente il codice è sufficiente creare nel proprio Google Drive la cartella principale:
+
+- lab_robot_and_computer_vision 
+
+All’interno di questa cartella bisogna inserire il contenuto dello zip, ovvero:
+
+- la cartella /lab, contenente le immagini acquisite in laboratorio
+- la cartella /casa, contenente le immagini acquisite a casa
+- il file "FINALE_DLT_ROBOTICA_PROGETTINO.ipynb"
+- il file "finale_dlt_robotica_progettino.py"
+
+Alla fine tutto deve funzionare (il codice può essere eseguito senza ulteriori modifiche)!
+
+
+------------------------------------
+------------------------------------
+
+Nel caso qualcosa andasse storto, lascio anche il link alla cartella condivisa del mio Google Drive:
+- https://drive.google.com/drive/folders/1aAQzTR7EB4MeQASFp2J8PcIton7HA0dX?usp=sharing
 
